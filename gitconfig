@@ -33,3 +33,5 @@
 	user = MatthewRDodds
 [merge]
         ff = only
+[pull]
+  rebase = true
