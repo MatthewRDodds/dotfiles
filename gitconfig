@@ -1,6 +1,6 @@
 [user]
-	name = Ben Orenstein
-	email = ben.orenstein@gmail.com 
+	name = Matt Dodds
+	email = matthewrusselldodds@gmail.com 
 [alias]
 	co = checkout
         cleanup = !git remote prune origin && git gc && git clean -df && git stash clear
@@ -30,6 +30,6 @@
 [rerere]
 	enabled = 1
 [github]
-	user = r00k
+	user = MatthewRDodds
 [merge]
         ff = only
